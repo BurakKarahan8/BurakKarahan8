@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Spring Boot**
 
-- 🌐 You can view my website **[https://devburakkarahan.com]**
+- 🌐 You can view my website **https://devburakkarahan.com**
 
 - 📫 How to reach me **brkkarahan288@gmail.com**
 
